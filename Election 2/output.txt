@@ -1,0 +1,27 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=65316:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath "/Users/neerajkeshav/IdeaProjects/Election 2/out/production/Election 2" Main
+President
+Golding, Mordy : 70 votes
+Gotshalk, Shira : 61 votes
+Evans, Stephanie : 54 votes
+Villalobos, Ray : 57 votes
+Golding, Mordy won
+Vice President
+Sarkar, Dona : 66 votes
+Ahn, Tyler : 64 votes
+Camp, Joe : 57 votes
+LeBlanc, Jordan : 55 votes
+Sarkar, Dona won
+Secretary 
+Howard, Jason : 66 votes
+Rubino, Nikki : 64 votes
+Fisher, Peggy : 53 votes
+Edde, Neil : 59 votes
+Howard, Jason won
+Treasurer 
+Gassner, David : 60 votes
+Bennett, Sharon : 50 votes
+Ritscher, Walt : 67 votes
+Hurley, Heather : 65 votes
+Ritscher, Walt won
+
+Process finished with exit code 0
