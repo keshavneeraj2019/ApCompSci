@@ -8,17 +8,17 @@ public class Main {
 
         System.out.println("There are, "+PlayerCharacter.numCharacters()+" characters\n");
 
-        Paladin player2 = new Paladin("Ben");
+        Paladin player2 = new Paladin("Neeraj");
         player2.showStats();
 
         System.out.println("There are, "+PlayerCharacter.numCharacters()+" characters\n");
 
-        Priest player3 = new Priest("Dustin");
+        Priest player3 = new Priest("Sai");
         player3.showStats();
 
         System.out.println("There are, "+PlayerCharacter.numCharacters()+" characters\n");
 
-        Mage player4 =new Mage("Alex");
+        Mage player4 =new Mage("Ryan");
         player4.showStats();
 
         System.out.println("There are, "+PlayerCharacter.numCharacters()+" characters\n");
