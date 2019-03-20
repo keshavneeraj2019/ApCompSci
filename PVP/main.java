@@ -25,8 +25,8 @@ public class Main {
 
         ArrayList<PlayerCharacter> players = new ArrayList<PlayerCharacter>();
         players.add(new Fighter ("Doug"));
-        players.add(new Paladin("Ben"));
-        players.add(new Priest("Dustin"));
-        players.add(new Mage("Alex"));
+        players.add(new Paladin("Neeraj"));
+        players.add(new Priest("Sai"));
+        players.add(new Mage("Ryan"));
     }
 }
